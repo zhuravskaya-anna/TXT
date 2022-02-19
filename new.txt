@@ -1,0 +1,7 @@
+name - Ganna
+	surname - Zhuravskaja
+	age - 28
+	
+	pets 	1.cat Salvador
+		2. snail Lusinda
+	desired_Salary - 500$
