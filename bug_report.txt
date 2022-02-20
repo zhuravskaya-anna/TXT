@@ -1,4 +1,3 @@
-
 id - 1
 Summary  - Header->меню-> не верно назван элемент  Академия 		
 Severity - Minor
